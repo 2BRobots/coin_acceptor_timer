@@ -6,7 +6,7 @@ The pulse input from the coin acceptor in the timer is open collector type. Whic
 
 The timer is programmed to disable the relay between each transaction, if you need it to be constantly enabled while it has enough credits please contact us for customization.
 
-![alt text](https://raw.githubusercontent.com/DAFRELECTRONICS/coin_acceptor_timer/blob/master/preview.png)
+![alt text](https://github.com/DAFRELECTRONICS/coin_acceptor_timer/blob/master/preview.png?raw=true)
 
 How to modify the settings:
 
