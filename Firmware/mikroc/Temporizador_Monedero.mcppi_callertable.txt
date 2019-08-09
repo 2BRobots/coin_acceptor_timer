@@ -1,0 +1,8 @@
+main
+	__CC2DW
+	EEPROM_Read
+	EEPROM_Write
+	Mul_16X16_U
+	VDelay_ms
+		Mul_32x32_U
+interrupt
