@@ -6,6 +6,8 @@ The pulse input from the coin acceptor in the timer is open collector type. Whic
 
 The timer is programmed to disable the relay between each transaction, if you need it to be constantly enabled while it has enough credits please contact us for customization.
 
+![alt text](https://raw.githubusercontent.com/DAFRELECTRONICS/coin_acceptor_timer/blob/master/preview.png)
+
 How to modify the settings:
 
 1. To change the number of pulses (credits) with which the timer is activated press the UP and DOWN buttons. With UP it increases and with DOWN it decreases, each time the setting is changed the STAT LED will flash rapidly. When the upper or lower limit is reached, the STAT LED flash slowly.
