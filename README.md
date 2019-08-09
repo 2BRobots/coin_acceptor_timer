@@ -4,7 +4,7 @@ The timer must be powered with regulated 12 VDC. When there is electric power, t
 
 The pulse input from the coin acceptor in the timer is open collector type. Which means that the coin acceptor must send a low logic signal (GND) every time it sends a credit and in standby state it must be floating (no voltage). The pulses must have a minimum width of 10 ms and a separation of 5 ms between pulses.
 
-The timer is programmed to disable the relay between each transaction, if you need it to be constantly enabled while it has enought credits please contact us for customization.
+The timer is programmed to disable the relay between each transaction, if you need it to be constantly enabled while it has enough credits please contact us for customization.
 
 How to modify the settings:
 
